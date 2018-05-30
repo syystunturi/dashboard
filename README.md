@@ -1,24 +1,5 @@
-# README
+[![Build Status](https://semaphoreci.com/api/v1/syystunturi/dashboard/branches/master/shields_badge.svg)](https://semaphoreci.com/syystunturi/dashboard)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Dashboard
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a simple Rails application bootstrapped according to the instructions from [Setting up a BDD Stack on a Rails 5 Application](https://semaphoreci.com/community/tutorials/setting-up-a-bdd-stack-on-a-rails-5-application "Semaphore Tutorial") tutorial.
